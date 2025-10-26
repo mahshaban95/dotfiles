@@ -1,8 +1,5 @@
 {
   "build": {
     "dockerfile": "Dockerfile"
-  },
-  "features": {
-    "ghcr.io/duduribeiro/devcontainer-features/neovim:1	": {}
   }
 }
