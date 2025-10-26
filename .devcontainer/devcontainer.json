@@ -3,7 +3,7 @@
     "dockerfile": "Dockerfile"
   },
   "features": {
-    "ghcr.io/duduribeiro/devcontainer-features/lunarvim:0": {},
+    "ghcr.io/duduribeiro/devcontainer-features/neovim:1	": {},
     "ghcr.io/duduribeiro/devcontainer-features/tmux:1": {},
     "ghcr.io/devcontainers-extra/features/starship:1": {},
     "ghcr.io/devcontainers/features/aws-cli:1": {},
