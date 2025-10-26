@@ -3,19 +3,6 @@
     "dockerfile": "Dockerfile"
   },
   "features": {
-    "ghcr.io/duduribeiro/devcontainer-features/neovim:1	": {},
-    "ghcr.io/duduribeiro/devcontainer-features/tmux:1": {},
-    "ghcr.io/devcontainers-extra/features/starship:1": {},
-    "ghcr.io/devcontainers/features/aws-cli:1": {},
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
-    "ghcr.io/devcontainers/features/github-cli:1": {},
-    "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {},
-    "ghcr.io/devcontainers/features/python:1": {},
-    "ghcr.io/devcontainers/features/terraform:1": {},
-    "ghcr.io/eitsupi/devcontainer-features/jq-likes:2": {},
-    "ghcr.io/dhoeric/features/k6:1": {},
-    "ghcr.io/natescherer/devcontainers-custom-features/k9s:1": {},
-    "ghcr.io/jungaretti/features/ripgrep:1": {},
-    "ghcr.io/jsburckhardt/devcontainer-features/opencode:1": {}
+    "ghcr.io/duduribeiro/devcontainer-features/neovim:1	": {}
   }
 }
